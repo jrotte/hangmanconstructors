@@ -1,0 +1,23 @@
+{
+  "name": "homework-9-advanced-js-constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0"
+  }
+}
